@@ -22,17 +22,17 @@ To set up the project locally, follow these steps:
    git clone https://github.com/your-username/Counter-App-2024-using-React-and-tailwind-css.git
     ```
 
-2. **Navigate to the project directory.**
+2. **Navigate to the project directory:**
     ```sh
     cd Counter-App-2024-using-React-and-tailwind-css
     ```
 
-3. **Install the required packages.**
+3. **Install the required packages:**
     ```sh
     npm install
     ```
 
-4. **Start the development server.**
+4. **Start the development server:**
     ```sh
     npm run start
     ```
