@@ -6,9 +6,9 @@ This is a starter pack for creating React projects with Tailwind CSS configured.
 
 This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
 
- Link to real time access to the website Hosted on Vercel.
+ **Link to real time access to the website Hosted on Vercel:**
    
-    https://counter-app-2024-using-react-and-tailwind-css.vercel.app/
+ https://counter-app-2024-using-react-and-tailwind-css.vercel.app/
     
 
 
